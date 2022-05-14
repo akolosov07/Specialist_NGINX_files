@@ -1,0 +1,103 @@
+index.html -> сервер
+
+пользователь -> браузер -> сеть -> вебсервер -> index.html
+пользователь <- браузер <- сеть <- вебсервер <- index.html
+
+OSI 
+- Прикладной уровень (HTTP)
+- Уровень представления
+- Сеансовый уровень  (RDP)
+- Транспортный уровень (TCP, UDP)
+- Сетевой уровень (IPv4, IPv6)
+- Канальный уровень
+- Физический уровень
+
+Модель сетевого взаимодействия
+
+IPv4 4 байта - 32 бита
+213.180.204.8
+255.255.255.0
+
+IPv6 16 байта - 128 бит
+
+MAC-адрес
+
+Порт
+10.5.7.150:80
+10.5.7.150:3306
+
+tracert www.specialist.ru
+
+DNS - Domain Name System
+www.specialist.ru -> 78.155.198.43
+
+DNS-сервер (Unbind, Bind) | hosts
+Веб-сервер
+
+C:\Windows\System32\drivers\etc\hosts
+
+HTTP HyperText Transfer Protocol
+
+HTTP/1.1
+rfc2616
+
+HTTP/2
+RFC 7540
+
+HTTP/3
+
+Клиент-сервер
+
+Пример HTTP-запроса HTTP1.1:
+-------------------------------------------------
+GET /courses?name=nginx&orderby=date HTTP/1.1
+Host: www.specialist.ru
+Connection: keep-alive
+User-Agent: Mozilla/5.0
+Accept: text/html
+Cookie: Some=1;
+-------------------------------------------------
+
+Пример HTTP-ответа HTTP1.1:
+-------------------------------------------------
+HTTP/1.1 200 OK
+Server: Apache
+Content-Type: text/html; charset=utf-8
+Content-Length: 234
+Set-Cookie: PHPSESSID=2jjgh78787
+Date: Mon, 24 May 2021 10:00:00 GMT
+
+<!doctype html>
+<html>
+...
+</html>
+-------------------------------------------------
+
+Etag: ""
+
+Хеширование - однозначное преобразование одной строки произвольного размера в другую строку 
+фикированного размера.
+
+SSL - сертификат -> https
+
+Lets encrypt - бесплатный сертификат
+
+LAMP WAMP MAMP
+Linux/Windows/
+LAMP
+
+https://httpd.apache.org/
+https://www.apachelounge.com/download/
+
+PATH
+
+C:\Users\ASUS>httpd -v
+Server version: Apache/2.4.53 (Win64)
+Apache Lounge VS16 Server built:   May  4 2022 10:41:15
+
+httpd -k install
+
+httpd -k start
+
+httpd -k stop
+

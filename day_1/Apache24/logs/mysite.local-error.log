@@ -1,0 +1,1 @@
+[Sat May 14 20:59:20.066633 2022] [authz_core:error] [pid 21304:tid 1048] [client ::1:52227] AH01630: client denied by server configuration: C:/sites/mysite.local/public/

@@ -1,0 +1,33 @@
+::1 - - [14/May/2022:20:59:20 +0300] "GET / HTTP/1.1" 403 199
+::1 - - [14/May/2022:21:00:20 +0300] "-" 408 -
+::1 - - [14/May/2022:21:07:36 +0300] "GET / HTTP/1.1" 200 67164
+::1 - - [14/May/2022:21:07:36 +0300] "GET /docs/5.2/dist/css/bootstrap.min.css HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:36 +0300] "GET /docs/5.2/assets/css/docs.css HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:36 +0300] "GET /docs/5.2/dist/js/bootstrap.bundle.min.js HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:36 +0300] "GET /docs/5.2/assets/js/docs.min.js HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:36 +0300] "GET /docs/5.2/assets/brand/bootstrap-logo-shadow.png HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:37 +0300] "GET /docs/5.2/assets/img/favicons/manifest.json HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:37 +0300] "GET /docs/5.2/assets/img/favicons/favicon.ico HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:37 +0300] "GET /docs/5.2/assets/img/favicons/favicon-32x32.png HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:07:37 +0300] "GET /docs/5.2/assets/img/favicons/favicon-16x16.png HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:13 +0300] "GET / HTTP/1.1" 200 67164
+127.0.0.1 - - [14/May/2022:21:08:13 +0300] "GET /docs/5.2/dist/css/bootstrap.min.css HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:13 +0300] "GET /docs/5.2/assets/css/docs.css HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:13 +0300] "GET /docs/5.2/dist/js/bootstrap.bundle.min.js HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:13 +0300] "GET /docs/5.2/assets/js/docs.min.js HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:13 +0300] "GET /docs/5.2/assets/brand/bootstrap-logo-shadow.png HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:14 +0300] "GET /docs/5.2/assets/img/favicons/favicon.ico HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:14 +0300] "GET /docs/5.2/assets/img/favicons/favicon-32x32.png HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:14 +0300] "GET /docs/5.2/assets/img/favicons/favicon-16x16.png HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:25 +0300] "GET /docs/5.2/assets/img/bootstrap-icons.png HTTP/1.1" 404 196
+127.0.0.1 - - [14/May/2022:21:08:25 +0300] "GET /docs/5.2/assets/img/bootstrap-themes.png HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:08:36 +0300] "-" 408 -
+::1 - - [14/May/2022:21:15:55 +0300] "GET / HTTP/1.1" 200 67209
+::1 - - [14/May/2022:21:15:55 +0300] "GET /css/style.css HTTP/1.1" 200 35
+::1 - - [14/May/2022:21:15:55 +0300] "GET /docs/5.2/dist/css/bootstrap.min.css HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:15:55 +0300] "GET /docs/5.2/assets/css/docs.css HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:15:55 +0300] "GET /docs/5.2/dist/js/bootstrap.bundle.min.js HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:15:55 +0300] "GET /docs/5.2/assets/js/docs.min.js HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:15:55 +0300] "GET /docs/5.2/assets/brand/bootstrap-logo-shadow.png HTTP/1.1" 404 196
+::1 - - [14/May/2022:21:15:55 +0300] "GET /docs/5.2/assets/img/favicons/manifest.json HTTP/1.1" 404 196
+192.168.0.195 - - [14/May/2022:21:20:13 +0300] "GET / HTTP/1.1" 200 67209
