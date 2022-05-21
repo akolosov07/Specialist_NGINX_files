@@ -1,0 +1,3 @@
+AddDefaultCharset UTF-8
+#AddType text/html .abc
+AddType application/json .abc

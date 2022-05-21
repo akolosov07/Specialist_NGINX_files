@@ -1,0 +1,602 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 17:20:44.370669 2022] [mpm_winnt:notice] [pid 5044:tid 412] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 17:20:44.370669 2022] [mpm_winnt:notice] [pid 5044:tid 412] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 17:20:44.370669 2022] [core:notice] [pid 5044:tid 412] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 17:20:44.370669 2022] [mpm_winnt:notice] [pid 5044:tid 412] AH00418: Parent: Created child process 8556
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 17:20:45.604355 2022] [mpm_winnt:notice] [pid 8556:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 17:33:23.073085 2022] [mpm_winnt:notice] [pid 5044:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 17:33:25.093291 2022] [mpm_winnt:notice] [pid 8556:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 14 17:33:25.112287 2022] [mpm_winnt:notice] [pid 5044:tid 412] AH00430: Parent: Child process 8556 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 17:33:25.832599 2022] [mpm_winnt:notice] [pid 21520:tid 400] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 17:33:25.833599 2022] [mpm_winnt:notice] [pid 21520:tid 400] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 17:33:25.833599 2022] [core:notice] [pid 21520:tid 400] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 17:33:25.835601 2022] [mpm_winnt:notice] [pid 21520:tid 400] AH00418: Parent: Created child process 18856
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 17:33:26.130607 2022] [mpm_winnt:notice] [pid 18856:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 17:51:59.272900 2022] [mpm_winnt:notice] [pid 21520:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 17:52:01.303010 2022] [mpm_winnt:notice] [pid 18856:tid 408] AH00364: Child: All worker threads have exited.
+[Sat May 14 17:52:01.322994 2022] [mpm_winnt:notice] [pid 21520:tid 400] AH00430: Parent: Child process 18856 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:07:14.696151 2022] [mpm_winnt:notice] [pid 18124:tid 392] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 18:07:14.696151 2022] [mpm_winnt:notice] [pid 18124:tid 392] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 18:07:14.696151 2022] [core:notice] [pid 18124:tid 392] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 18:07:14.698152 2022] [mpm_winnt:notice] [pid 18124:tid 392] AH00418: Parent: Created child process 20820
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:07:14.919983 2022] [mpm_winnt:notice] [pid 20820:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 18:08:04.623067 2022] [mpm_winnt:notice] [pid 18124:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 18:08:14.917470 2022] [mpm_winnt:notice] [pid 20820:tid 424] AH00364: Child: All worker threads have exited.
+[Sat May 14 18:08:14.936522 2022] [mpm_winnt:notice] [pid 18124:tid 392] AH00430: Parent: Child process 20820 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:08:15.513565 2022] [mpm_winnt:notice] [pid 20904:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 18:08:15.514559 2022] [mpm_winnt:notice] [pid 20904:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 18:08:15.514559 2022] [core:notice] [pid 20904:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 18:08:15.516560 2022] [mpm_winnt:notice] [pid 20904:tid 384] AH00418: Parent: Created child process 2776
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:08:15.740908 2022] [mpm_winnt:notice] [pid 2776:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 18:14:02.582051 2022] [mpm_winnt:notice] [pid 20904:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 18:14:04.603916 2022] [mpm_winnt:notice] [pid 2776:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 14 18:14:04.622199 2022] [mpm_winnt:notice] [pid 20904:tid 384] AH00430: Parent: Child process 2776 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:14:05.348264 2022] [mpm_winnt:notice] [pid 4060:tid 392] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 18:14:05.349264 2022] [mpm_winnt:notice] [pid 4060:tid 392] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 18:14:05.349264 2022] [core:notice] [pid 4060:tid 392] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 18:14:05.351264 2022] [mpm_winnt:notice] [pid 4060:tid 392] AH00418: Parent: Created child process 1156
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:14:05.561143 2022] [mpm_winnt:notice] [pid 1156:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 18:14:48.684272 2022] [mpm_winnt:notice] [pid 4060:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 18:15:04.735928 2022] [mpm_winnt:notice] [pid 1156:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 14 18:15:04.754718 2022] [mpm_winnt:notice] [pid 4060:tid 392] AH00430: Parent: Child process 1156 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:15:05.267471 2022] [mpm_winnt:notice] [pid 20196:tid 400] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 18:15:05.267471 2022] [mpm_winnt:notice] [pid 20196:tid 400] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 18:15:05.267471 2022] [core:notice] [pid 20196:tid 400] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 18:15:05.269473 2022] [mpm_winnt:notice] [pid 20196:tid 400] AH00418: Parent: Created child process 5676
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::d831:d814:e983:80da. Set the 'ServerName' directive globally to suppress this message
+[Sat May 14 18:15:05.557183 2022] [mpm_winnt:notice] [pid 5676:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 18:23:34.369814 2022] [mpm_winnt:notice] [pid 20196:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 18:24:04.383605 2022] [mpm_winnt:notice] [pid 20196:tid 400] AH00431: Parent: Forcing termination of child process 5676
+[Sat May 14 18:24:04.747129 2022] [mpm_winnt:notice] [pid 17552:tid 408] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 18:24:04.748130 2022] [mpm_winnt:notice] [pid 17552:tid 408] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 18:24:04.748130 2022] [core:notice] [pid 17552:tid 408] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 18:24:04.750130 2022] [mpm_winnt:notice] [pid 17552:tid 408] AH00418: Parent: Created child process 19056
+[Sat May 14 18:24:05.137793 2022] [mpm_winnt:notice] [pid 19056:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 20:58:53.186581 2022] [mpm_winnt:notice] [pid 17552:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 20:58:55.193594 2022] [mpm_winnt:notice] [pid 19056:tid 408] AH00364: Child: All worker threads have exited.
+[Sat May 14 20:58:55.212729 2022] [mpm_winnt:notice] [pid 17552:tid 408] AH00430: Parent: Child process 19056 exited successfully.
+[Sat May 14 20:58:55.970484 2022] [mpm_winnt:notice] [pid 5868:tid 400] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 20:58:55.971484 2022] [mpm_winnt:notice] [pid 5868:tid 400] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 20:58:55.971484 2022] [core:notice] [pid 5868:tid 400] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 20:58:55.973484 2022] [mpm_winnt:notice] [pid 5868:tid 400] AH00418: Parent: Created child process 21304
+[Sat May 14 20:58:56.294709 2022] [mpm_winnt:notice] [pid 21304:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 21:07:21.238408 2022] [mpm_winnt:notice] [pid 5868:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 21:07:23.255571 2022] [mpm_winnt:notice] [pid 21304:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 14 21:07:23.273652 2022] [mpm_winnt:notice] [pid 5868:tid 400] AH00430: Parent: Child process 21304 exited successfully.
+[Sat May 14 21:07:24.003539 2022] [mpm_winnt:notice] [pid 3316:tid 400] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 21:07:24.004538 2022] [mpm_winnt:notice] [pid 3316:tid 400] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 21:07:24.004538 2022] [core:notice] [pid 3316:tid 400] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 21:07:24.006539 2022] [mpm_winnt:notice] [pid 3316:tid 400] AH00418: Parent: Created child process 9816
+[Sat May 14 21:07:24.215743 2022] [mpm_winnt:notice] [pid 9816:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 21:14:36.484116 2022] [mpm_winnt:notice] [pid 3316:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 21:14:38.500610 2022] [mpm_winnt:notice] [pid 9816:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 14 21:14:38.520310 2022] [mpm_winnt:notice] [pid 3316:tid 400] AH00430: Parent: Child process 9816 exited successfully.
+[Sat May 14 21:14:39.330581 2022] [mpm_winnt:notice] [pid 22152:tid 408] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 21:14:39.330581 2022] [mpm_winnt:notice] [pid 22152:tid 408] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 21:14:39.330581 2022] [core:notice] [pid 22152:tid 408] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 21:14:39.332581 2022] [mpm_winnt:notice] [pid 22152:tid 408] AH00418: Parent: Created child process 13264
+[Sat May 14 21:14:39.650735 2022] [mpm_winnt:notice] [pid 13264:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 21:59:00.295722 2022] [mpm_winnt:notice] [pid 22152:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 21:59:02.324997 2022] [mpm_winnt:notice] [pid 13264:tid 408] AH00364: Child: All worker threads have exited.
+[Sat May 14 21:59:02.340623 2022] [mpm_winnt:notice] [pid 22152:tid 408] AH00430: Parent: Child process 13264 exited successfully.
+[Sat May 14 21:59:31.322609 2022] [mpm_winnt:notice] [pid 5128:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 21:59:31.322609 2022] [mpm_winnt:notice] [pid 5128:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 21:59:31.322609 2022] [core:notice] [pid 5128:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 21:59:31.338390 2022] [mpm_winnt:notice] [pid 5128:tid 384] AH00418: Parent: Created child process 8748
+[Sat May 14 21:59:31.711529 2022] [mpm_winnt:notice] [pid 8748:tid 412] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 22:13:52.418597 2022] [mpm_winnt:notice] [pid 5128:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 22:13:54.434326 2022] [mpm_winnt:notice] [pid 8748:tid 412] AH00364: Child: All worker threads have exited.
+[Sat May 14 22:13:54.449949 2022] [mpm_winnt:notice] [pid 5128:tid 384] AH00430: Parent: Child process 8748 exited successfully.
+[Sat May 14 22:14:24.277843 2022] [mpm_winnt:notice] [pid 5152:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 22:14:24.277843 2022] [mpm_winnt:notice] [pid 5152:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 22:14:24.277843 2022] [core:notice] [pid 5152:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 22:14:24.340347 2022] [mpm_winnt:notice] [pid 5152:tid 384] AH00418: Parent: Created child process 7056
+[Sat May 14 22:14:24.915406 2022] [mpm_winnt:notice] [pid 7056:tid 436] AH00354: Child: Starting 64 worker threads.
+[Sat May 14 22:24:25.288213 2022] [mpm_winnt:notice] [pid 5152:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 14 22:24:27.311939 2022] [mpm_winnt:notice] [pid 7056:tid 436] AH00364: Child: All worker threads have exited.
+[Sat May 14 22:24:27.327572 2022] [mpm_winnt:notice] [pid 5152:tid 384] AH00430: Parent: Child process 7056 exited successfully.
+[Sat May 14 22:24:58.613559 2022] [mpm_winnt:notice] [pid 5164:tid 404] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 14 22:24:58.613559 2022] [mpm_winnt:notice] [pid 5164:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 14 22:24:58.613559 2022] [core:notice] [pid 5164:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 14 22:24:58.761175 2022] [mpm_winnt:notice] [pid 5164:tid 404] AH00418: Parent: Created child process 5516
+[Sat May 14 22:24:59.092495 2022] [mpm_winnt:notice] [pid 5516:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sun May 15 11:45:57.698686 2022] [core:warn] [pid 4116:tid 384] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 15 11:45:57.700706 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sun May 15 11:45:57.700706 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sun May 15 11:45:57.700706 2022] [core:notice] [pid 4116:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun May 15 11:45:57.700706 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00418: Parent: Created child process 7832
+[Sun May 15 11:45:58.192356 2022] [mpm_winnt:notice] [pid 7832:tid 432] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 4116:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 10:34:15.896152 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 10:34:15.896152 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 10:34:15.896152 2022] [core:notice] [pid 4116:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 10:34:15.898155 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00418: Parent: Created child process 21280
+[Sat May 21 10:34:16.875449 2022] [mpm_winnt:notice] [pid 21280:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 10:34:17.880631 2022] [mpm_winnt:notice] [pid 7832:tid 432] AH00364: Child: All worker threads have exited.
+[Sat May 21 10:35:27.683607 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 21 10:35:29.699595 2022] [mpm_winnt:notice] [pid 21280:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 21 10:35:29.718228 2022] [mpm_winnt:notice] [pid 4116:tid 384] AH00430: Parent: Child process 21280 exited successfully.
+[Sat May 21 10:35:30.431057 2022] [mpm_winnt:notice] [pid 15728:tid 400] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 10:35:30.432058 2022] [mpm_winnt:notice] [pid 15728:tid 400] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 10:35:30.432058 2022] [core:notice] [pid 15728:tid 400] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 10:35:30.434058 2022] [mpm_winnt:notice] [pid 15728:tid 400] AH00418: Parent: Created child process 27732
+[Sat May 21 10:35:30.642107 2022] [mpm_winnt:notice] [pid 27732:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 10:37:31.770698 2022] [mpm_winnt:notice] [pid 15728:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 21 10:37:33.788163 2022] [mpm_winnt:notice] [pid 27732:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 21 10:37:33.806178 2022] [mpm_winnt:notice] [pid 15728:tid 400] AH00430: Parent: Child process 27732 exited successfully.
+[Sat May 21 10:37:34.533324 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 10:37:34.534323 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 10:37:34.534323 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 10:37:34.535323 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 26088
+[Sat May 21 10:37:34.819390 2022] [mpm_winnt:notice] [pid 26088:tid 400] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 11:36:38.596290 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 11:36:38.596290 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 11:36:38.596290 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 11:36:38.598103 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 18640
+[Sat May 21 11:36:39.594434 2022] [mpm_winnt:notice] [pid 18640:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 11:36:40.596667 2022] [mpm_winnt:notice] [pid 26088:tid 400] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 11:51:33.783122 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 11:51:33.783122 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 11:51:33.783122 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 11:51:33.785122 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 1964
+[Sat May 21 11:51:34.770519 2022] [mpm_winnt:notice] [pid 1964:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 11:51:36.535048 2022] [mpm_winnt:notice] [pid 18640:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 12:10:34.685667 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 12:10:34.685667 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 12:10:34.685667 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 12:10:34.687676 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 21296
+[Sat May 21 12:10:35.683556 2022] [mpm_winnt:notice] [pid 21296:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 12:10:36.692547 2022] [mpm_winnt:notice] [pid 1964:tid 408] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 12:18:16.835641 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 12:18:16.835641 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 12:18:16.835641 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 12:18:16.837647 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 25248
+[Sat May 21 12:18:17.829187 2022] [mpm_winnt:notice] [pid 25248:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 12:18:18.834540 2022] [mpm_winnt:notice] [pid 21296:tid 400] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 12:20:50.752857 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 12:20:50.752857 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 12:20:50.752857 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 12:20:50.754857 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 23980
+[Sat May 21 12:20:51.749891 2022] [mpm_winnt:notice] [pid 23980:tid 428] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 12:20:52.753030 2022] [mpm_winnt:notice] [pid 25248:tid 424] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 12:30:45.178784 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 12:30:45.178784 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 12:30:45.178784 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 12:30:45.180785 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 25248
+[Sat May 21 12:30:46.170534 2022] [mpm_winnt:notice] [pid 25248:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 12:30:47.173146 2022] [mpm_winnt:notice] [pid 23980:tid 428] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 13:29:02.901230 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) configured -- resuming normal operations
+[Sat May 21 13:29:02.901230 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 13:29:02.901230 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 13:29:02.903231 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 18144
+[Sat May 21 13:29:03.889912 2022] [mpm_winnt:notice] [pid 18144:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 13:29:04.890233 2022] [mpm_winnt:notice] [pid 25248:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+TSat May 21 13:42:54.565980 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 13:42:54.597770 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 13:42:54.597770 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 13:42:54.597770 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 13:42:54.600776 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 13844
+[Sat May 21 13:42:55.579103 2022] [mpm_winnt:notice] [pid 13844:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 13:42:56.592664 2022] [mpm_winnt:notice] [pid 18144:tid 408] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+That May 21 13:49:21.546603 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 13:49:21.569430 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 13:49:21.569430 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 13:49:21.569430 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 13:49:21.572431 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 21672
+[Sat May 21 13:49:22.550648 2022] [mpm_winnt:notice] [pid 21672:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 13:49:27.781587 2022] [mpm_winnt:notice] [pid 13844:tid 424] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+[Sat May 21 14:47:16.224559 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 14:47:16.251397 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 14:47:16.251397 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 14:47:16.251397 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 14:47:16.254389 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 2532
+[Sat May 21 14:47:17.232927 2022] [mpm_winnt:notice] [pid 2532:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 14:47:18.237536 2022] [mpm_winnt:notice] [pid 21672:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+TSat May 21 15:16:18.099620 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 15:16:18.124208 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 15:16:18.124208 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 15:16:18.124208 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 15:16:18.126190 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 28652
+[Sat May 21 15:16:19.100746 2022] [mpm_winnt:notice] [pid 28652:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 15:16:20.104327 2022] [mpm_winnt:notice] [pid 2532:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 15:31:51.154527 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 15:31:51.154527 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 15:31:51.154527 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 15:31:51.156520 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 4076
+[Sat May 21 15:31:52.139099 2022] [mpm_winnt:notice] [pid 4076:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 15:31:53.143855 2022] [mpm_winnt:notice] [pid 28652:tid 424] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 15:46:37.509913 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 15:46:37.509913 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 15:46:37.509913 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 15:46:37.512908 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 10304
+[Sat May 21 15:46:38.497446 2022] [mpm_winnt:notice] [pid 10304:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 15:46:39.500118 2022] [mpm_winnt:notice] [pid 4076:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+[Sat May 21 15:48:12.504921 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 15:48:12.527921 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 15:48:12.527921 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 15:48:12.527921 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 15:48:12.530921 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 22096
+[Sat May 21 15:48:13.514254 2022] [mpm_winnt:notice] [pid 22096:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 15:48:14.518358 2022] [mpm_winnt:notice] [pid 10304:tid 400] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'May 21 15:50:44.577399 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 15:50:44.600986 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 15:50:44.600986 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 15:50:44.600986 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 15:50:44.602987 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 20496
+[Sat May 21 15:50:45.584793 2022] [mpm_winnt:notice] [pid 20496:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 15:50:46.589183 2022] [mpm_winnt:notice] [pid 22096:tid 424] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has r022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:00:40.975882 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:00:40.975882 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:00:40.975882 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:00:40.978883 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 12792
+[Sat May 21 16:00:41.958930 2022] [mpm_winnt:notice] [pid 12792:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:00:42.963871 2022] [mpm_winnt:notice] [pid 20496:tid 400] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+TSat May 21 16:22:10.452425 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:22:10.475430 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:22:10.475430 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:22:10.475430 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:22:10.476952 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 19028
+[Sat May 21 16:22:11.461685 2022] [mpm_winnt:notice] [pid 19028:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:22:12.469781 2022] [mpm_winnt:notice] [pid 12792:tid 424] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+That May 21 16:24:36.507119 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:24:36.529966 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:24:36.529966 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:24:36.529966 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:24:36.532966 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 19280
+[Sat May 21 16:24:37.520473 2022] [mpm_winnt:notice] [pid 19280:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:24:38.528727 2022] [mpm_winnt:notice] [pid 19028:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:28:11.166316 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:28:11.166316 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:28:11.166316 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:28:11.169312 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 13760
+[Sat May 21 16:28:12.148171 2022] [mpm_winnt:notice] [pid 13760:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:28:13.154877 2022] [mpm_winnt:notice] [pid 19280:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:30:48.785932 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:30:48.785932 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:30:48.785932 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:30:48.787933 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 9360
+[Sat May 21 16:30:49.778786 2022] [mpm_winnt:notice] [pid 9360:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:30:58.595661 2022] [mpm_winnt:notice] [pid 13760:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+[Sat May 21 16:34:03.074799 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:34:03.097790 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:34:03.097790 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:34:03.097790 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:34:03.099799 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 15660
+[Sat May 21 16:34:04.086691 2022] [mpm_winnt:notice] [pid 15660:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:34:05.090223 2022] [mpm_winnt:notice] [pid 9360:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache 16:43:10.732852 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:43:10.756654 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:43:10.756654 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:43:10.756654 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:43:10.759655 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 8744
+[Sat May 21 16:43:11.744687 2022] [mpm_winnt:notice] [pid 8744:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:43:12.757685 2022] [mpm_winnt:notice] [pid 15660:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'May 21 16:46:39.376233 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 16:46:39.399244 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 16:46:39.399244 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 16:46:39.399244 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 16:46:39.401231 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 1992
+[Sat May 21 16:46:40.377237 2022] [mpm_winnt:notice] [pid 1992:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 16:46:41.389315 2022] [mpm_winnt:notice] [pid 8744:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+[Sat May 21 19:36:26.294778 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 19:36:26.328799 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 19:36:26.328799 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 19:36:26.331799 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 19:36:26.331799 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 19:36:26.331799 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 19:36:26.334787 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 8740
+[Sat May 21 19:36:26.609246 2022] [ssl:warn] [pid 8740:tid 432] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 19:36:26.609246 2022] [ssl:warn] [pid 8740:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 19:36:26.629868 2022] [ssl:warn] [pid 8740:tid 432] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 19:36:26.629868 2022] [ssl:warn] [pid 8740:tid 432] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 19:36:27.305267 2022] [mpm_winnt:notice] [pid 8740:tid 432] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 19:36:28.306834 2022] [mpm_winnt:notice] [pid 1992:tid 408] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:04:53.003607 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:04:53.003607 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:04:53.007621 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:04:53.007621 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:04:53.007621 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:04:53.009615 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 22776
+[Sat May 21 20:04:53.210391 2022] [ssl:warn] [pid 22776:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:04:53.210391 2022] [ssl:warn] [pid 22776:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:04:53.231206 2022] [ssl:warn] [pid 22776:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:04:53.231206 2022] [ssl:warn] [pid 22776:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:04:53.981812 2022] [mpm_winnt:notice] [pid 22776:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:04:54.992789 2022] [mpm_winnt:notice] [pid 8740:tid 432] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:07:51.065739 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:07:51.065739 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:07:51.068740 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:07:51.068740 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:07:51.068740 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:07:51.070894 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 5508
+[Sat May 21 20:07:51.269111 2022] [ssl:warn] [pid 5508:tid 408] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:07:51.269111 2022] [ssl:warn] [pid 5508:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:07:51.288179 2022] [ssl:warn] [pid 5508:tid 408] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:07:51.288179 2022] [ssl:warn] [pid 5508:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:07:52.053359 2022] [mpm_winnt:notice] [pid 5508:tid 408] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:07:53.059218 2022] [mpm_winnt:notice] [pid 22776:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:09:08.493541 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:09:08.493541 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:09:08.496542 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:09:08.496542 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:09:08.497543 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:09:08.499543 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 8784
+[Sat May 21 20:09:08.701069 2022] [ssl:warn] [pid 8784:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:09:08.701069 2022] [ssl:warn] [pid 8784:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:09:08.721938 2022] [ssl:warn] [pid 8784:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:09:08.721938 2022] [ssl:warn] [pid 8784:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:09:09.473203 2022] [mpm_winnt:notice] [pid 8784:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:09:10.482569 2022] [mpm_winnt:notice] [pid 5508:tid 408] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:11:19.506586 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:11:19.506586 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:11:19.510587 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:11:19.510587 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:11:19.510587 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:11:19.512588 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 13056
+[Sat May 21 20:11:19.790200 2022] [ssl:warn] [pid 13056:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:11:19.791200 2022] [ssl:warn] [pid 13056:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:11:19.812427 2022] [ssl:warn] [pid 13056:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:11:19.812427 2022] [ssl:warn] [pid 13056:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:11:20.492153 2022] [mpm_winnt:notice] [pid 13056:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:11:21.501058 2022] [mpm_winnt:notice] [pid 8784:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:18:52.993740 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:18:52.993740 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:18:52.997747 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:18:52.997747 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:18:52.997747 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:18:53.000748 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 10928
+[Sat May 21 20:18:53.198792 2022] [ssl:warn] [pid 10928:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:18:53.198792 2022] [ssl:warn] [pid 10928:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:18:53.218288 2022] [ssl:warn] [pid 10928:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:18:53.218288 2022] [ssl:warn] [pid 10928:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:18:53.972982 2022] [mpm_winnt:notice] [pid 10928:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:18:54.982105 2022] [mpm_winnt:notice] [pid 13056:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+[Sat May 21 20:19:38.180089 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:19:38.203095 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:19:38.203095 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:19:38.207099 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:19:38.207099 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:19:38.207099 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:19:38.209311 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 17720
+[Sat May 21 20:19:38.482173 2022] [ssl:warn] [pid 17720:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:19:38.482173 2022] [ssl:warn] [pid 17720:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:19:38.503501 2022] [ssl:warn] [pid 17720:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:19:38.503501 2022] [ssl:warn] [pid 17720:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:19:39.183580 2022] [mpm_winnt:notice] [pid 17720:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:20:02.890468 2022] [mpm_winnt:notice] [pid 10928:tid 400] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:20:37.557863 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:20:37.557863 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:20:37.561863 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:20:37.561863 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:20:37.561863 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:20:37.563871 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 28532
+[Sat May 21 20:20:37.764147 2022] [ssl:warn] [pid 28532:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:20:37.765147 2022] [ssl:warn] [pid 28532:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:20:37.784774 2022] [ssl:warn] [pid 28532:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:20:37.784774 2022] [ssl:warn] [pid 28532:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:20:38.549941 2022] [mpm_winnt:notice] [pid 28532:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:20:51.492831 2022] [mpm_winnt:notice] [pid 17720:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:24:16.092712 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:24:16.092712 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:24:16.095712 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:24:16.095712 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:24:16.095712 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:24:16.098702 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 11280
+[Sat May 21 20:24:16.378093 2022] [ssl:warn] [pid 11280:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:24:16.378093 2022] [ssl:warn] [pid 11280:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:24:16.402105 2022] [ssl:warn] [pid 11280:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:24:16.402105 2022] [ssl:warn] [pid 11280:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:24:17.075701 2022] [mpm_winnt:notice] [pid 11280:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:24:18.083911 2022] [mpm_winnt:notice] [pid 28532:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:25:40.236143 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:25:40.236143 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:25:40.240144 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:25:40.240144 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:25:40.240144 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:25:40.242144 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 3192
+[Sat May 21 20:25:40.552437 2022] [ssl:warn] [pid 3192:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:25:40.552437 2022] [ssl:warn] [pid 3192:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:25:40.574553 2022] [ssl:warn] [pid 3192:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:25:40.574553 2022] [ssl:warn] [pid 3192:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:25:41.226780 2022] [mpm_winnt:notice] [pid 3192:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:25:42.236977 2022] [mpm_winnt:notice] [pid 11280:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 23804:tid 384] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 20:26:12.597439 2022] [ssl:warn] [pid 23804:tid 384] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:26:12.598439 2022] [ssl:warn] [pid 23804:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:26:12.601440 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 20:26:12.601440 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 20:26:12.601440 2022] [core:notice] [pid 23804:tid 384] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 20:26:12.604602 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00418: Parent: Created child process 5496
+[Sat May 21 20:26:12.883761 2022] [ssl:warn] [pid 5496:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:26:12.884755 2022] [ssl:warn] [pid 5496:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:26:12.903287 2022] [ssl:warn] [pid 5496:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 20:26:12.903287 2022] [ssl:warn] [pid 5496:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 20:26:13.586476 2022] [mpm_winnt:notice] [pid 5496:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 20:26:14.598912 2022] [mpm_winnt:notice] [pid 3192:tid 400] AH00364: Child: All worker threads have exited.
+[Sat May 21 20:52:40.668358 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 21 20:52:42.683452 2022] [mpm_winnt:notice] [pid 5496:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 21 20:52:42.704991 2022] [mpm_winnt:notice] [pid 23804:tid 384] AH00430: Parent: Child process 5496 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+sl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:07:59.442532 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:07:59.465548 2022] [ssl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:07:59.465548 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:07:59.479558 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 21:07:59.479558 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 21:07:59.479558 2022] [core:notice] [pid 8948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 21:07:59.482558 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00418: Parent: Created child process 22204
+[Sat May 21 21:07:59.681602 2022] [ssl:warn] [pid 22204:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:07:59.682603 2022] [ssl:warn] [pid 22204:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:07:59.701898 2022] [ssl:warn] [pid 22204:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:07:59.701898 2022] [ssl:warn] [pid 22204:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:07:59.718901 2022] [mpm_winnt:notice] [pid 22204:tid 416] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 8948:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 21:08:15.963578 2022] [ssl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:08:15.964572 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:08:15.967572 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 21:08:15.967572 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 21:08:15.967572 2022] [core:notice] [pid 8948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 21:08:15.969728 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00418: Parent: Created child process 9812
+[Sat May 21 21:08:16.167624 2022] [ssl:warn] [pid 9812:tid 424] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:08:16.168602 2022] [ssl:warn] [pid 9812:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:08:16.188628 2022] [ssl:warn] [pid 9812:tid 424] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:08:16.188628 2022] [ssl:warn] [pid 9812:tid 424] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:08:16.943168 2022] [mpm_winnt:notice] [pid 9812:tid 424] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 21:08:17.949432 2022] [mpm_winnt:notice] [pid 22204:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 8948:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 21:13:14.898450 2022] [ssl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:13:14.898450 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:13:14.901462 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 21:13:14.901462 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 21:13:14.901462 2022] [core:notice] [pid 8948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 21:13:14.904451 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00418: Parent: Created child process 21912
+[Sat May 21 21:13:15.105824 2022] [ssl:warn] [pid 21912:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:13:15.105824 2022] [ssl:warn] [pid 21912:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:13:15.127822 2022] [ssl:warn] [pid 21912:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:13:15.127822 2022] [ssl:warn] [pid 21912:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:13:15.874873 2022] [mpm_winnt:notice] [pid 21912:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 21:13:46.340927 2022] [mpm_winnt:notice] [pid 9812:tid 424] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 21:20:33.748926 2022] [ssl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:20:33.748926 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:20:33.752937 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 21:20:33.752937 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 21:20:33.752937 2022] [core:notice] [pid 8948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 21:20:33.754921 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00418: Parent: Created child process 14440
+[Sat May 21 21:20:33.957984 2022] [ssl:warn] [pid 14440:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:20:33.958964 2022] [ssl:warn] [pid 14440:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:20:33.978968 2022] [ssl:warn] [pid 14440:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:20:33.978968 2022] [ssl:warn] [pid 14440:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:20:34.726894 2022] [mpm_winnt:notice] [pid 14440:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 21:20:35.739393 2022] [mpm_winnt:notice] [pid 21912:tid 400] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 8948:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 21:31:30.438683 2022] [ssl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:31:30.438683 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:31:30.441684 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 21:31:30.442685 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 21:31:30.442685 2022] [core:notice] [pid 8948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 21:31:30.444685 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00418: Parent: Created child process 7832
+[Sat May 21 21:31:30.648731 2022] [ssl:warn] [pid 7832:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:31:30.648731 2022] [ssl:warn] [pid 7832:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:31:30.670736 2022] [ssl:warn] [pid 7832:tid 416] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:31:30.670736 2022] [ssl:warn] [pid 7832:tid 416] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:31:31.423863 2022] [mpm_winnt:notice] [pid 7832:tid 416] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 21:31:32.431441 2022] [mpm_winnt:notice] [pid 14440:tid 416] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 8948:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Sat May 21 21:32:57.733931 2022] [ssl:warn] [pid 8948:tid 404] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:32:57.734931 2022] [ssl:warn] [pid 8948:tid 404] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:32:57.737933 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1o PHP/8.1.6 configured -- resuming normal operations
+[Sat May 21 21:32:57.737933 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00456: Apache Lounge VS16 Server built: May  4 2022 10:41:15
+[Sat May 21 21:32:57.737933 2022] [core:notice] [pid 8948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat May 21 21:32:57.739933 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00418: Parent: Created child process 10896
+[Sat May 21 21:32:58.022799 2022] [ssl:warn] [pid 10896:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:32:58.023800 2022] [ssl:warn] [pid 10896:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:32:58.044581 2022] [ssl:warn] [pid 10896:tid 400] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat May 21 21:32:58.044581 2022] [ssl:warn] [pid 10896:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 21 21:32:58.718810 2022] [mpm_winnt:notice] [pid 10896:tid 400] AH00354: Child: Starting 64 worker threads.
+[Sat May 21 21:32:59.731491 2022] [mpm_winnt:notice] [pid 7832:tid 416] AH00364: Child: All worker threads have exited.
+[Sat May 21 21:37:18.093562 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 21 21:37:20.100456 2022] [mpm_winnt:notice] [pid 10896:tid 400] AH00364: Child: All worker threads have exited.
+[Sat May 21 21:37:20.120950 2022] [mpm_winnt:notice] [pid 8948:tid 404] AH00430: Parent: Child process 10896 exited successfully.

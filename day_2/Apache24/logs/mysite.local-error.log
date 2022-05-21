@@ -1,0 +1,6 @@
+[Sat May 14 20:59:20.066633 2022] [authz_core:error] [pid 21304:tid 1048] [client ::1:52227] AH01630: client denied by server configuration: C:/sites/mysite.local/public/
+[Sat May 21 13:48:43.032249 2022] [cgi:error] [pid 13844:tid 1160] (OS 2)Не удается найти указанный файл.  : [client 127.0.0.1:58845] couldn't create child process: 720002: test.py
+[Sat May 21 13:48:43.032249 2022] [cgi:error] [pid 13844:tid 1160] (OS 2)Не удается найти указанный файл.  : [client 127.0.0.1:58845] AH01223: couldn't spawn child process: C:/sites/mysite.local/public/test.py
+[Sat May 21 13:49:27.727576 2022] [cgi:error] [pid 13844:tid 1156] (OS 2)Не удается найти указанный файл.  : [client 127.0.0.1:58846] couldn't create child process: 720002: test.py
+[Sat May 21 13:49:27.730575 2022] [cgi:error] [pid 13844:tid 1156] (OS 2)Не удается найти указанный файл.  : [client 127.0.0.1:58846] AH01223: couldn't spawn child process: C:/sites/mysite.local/public/test.py
+[Sat May 21 15:47:04.672444 2022] [alias:error] [pid 10304:tid 1124] [client 127.0.0.1:64547] AH00674: cannot redirect '/photo.jpg' to 'photo.png'; target is not a valid absoluteURI or abs_path, referer: http://mysite.local/
